@@ -320,11 +320,11 @@ static const uint16_t ud_itab__28[] = {
 };
 
 static const uint16_t ud_itab__29[] = {
-  /*  0 */         936,         925,         928,         932,
+  /*  0 */         936,     INVALID,         928,     INVALID,
 };
 
 static const uint16_t ud_itab__30[] = {
-  /*  0 */         938,         926,         929,         934,
+  /*  0 */         938,     INVALID,         929,     INVALID,
 };
 
 static const uint16_t ud_itab__31[] = {
@@ -332,23 +332,23 @@ static const uint16_t ud_itab__31[] = {
 };
 
 static const uint16_t ud_itab__32[] = {
-  /*  0 */         892,        1563,        1571,         888,
+  /*  0 */         892,     INVALID,        1571,     INVALID,
 };
 
 static const uint16_t ud_itab__33[] = {
-  /*  0 */         896,        1561,        1569,     INVALID,
+  /*  0 */         896,     INVALID,        1569,     INVALID,
 };
 
 static const uint16_t ud_itab__34[] = {
-  /*  0 */         894,     INVALID,     INVALID,         890,
+  /*  0 */         894,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__35[] = {
-  /*  0 */        1449,     INVALID,     INVALID,        1451,
+  /*  0 */        1449,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__36[] = {
-  /*  0 */        1447,     INVALID,     INVALID,        1445,
+  /*  0 */        1447,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__37[] = {
@@ -356,7 +356,7 @@ static const uint16_t ud_itab__37[] = {
 };
 
 static const uint16_t ud_itab__38[] = {
-  /*  0 */         882,     INVALID,        1567,         878,
+  /*  0 */         882,     INVALID,        1567,     INVALID,
 };
 
 static const uint16_t ud_itab__39[] = {
@@ -364,7 +364,7 @@ static const uint16_t ud_itab__39[] = {
 };
 
 static const uint16_t ud_itab__40[] = {
-  /*  0 */         884,     INVALID,     INVALID,         880,
+  /*  0 */         884,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__41[] = {
@@ -373,35 +373,35 @@ static const uint16_t ud_itab__41[] = {
 };
 
 static const uint16_t ud_itab__42[] = {
-  /*  0 */         862,     INVALID,     INVALID,         858,
+  /*  0 */         862,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__43[] = {
-  /*  0 */         864,     INVALID,     INVALID,         860,
+  /*  0 */         864,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__44[] = {
-  /*  0 */         141,         152,         154,         142,
+  /*  0 */         141,     INVALID,         154,     INVALID,
 };
 
 static const uint16_t ud_itab__45[] = {
-  /*  0 */         907,     INVALID,     INVALID,         905,
+  /*  0 */         907,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__46[] = {
-  /*  0 */         165,         166,         168,         162,
+  /*  0 */         165,     INVALID,         168,     INVALID,
 };
 
 static const uint16_t ud_itab__47[] = {
-  /*  0 */         147,         148,         158,         138,
+  /*  0 */         147,     INVALID,         158,     INVALID,
 };
 
 static const uint16_t ud_itab__48[] = {
-  /*  0 */        1442,     INVALID,     INVALID,        1440,
+  /*  0 */        1442,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__49[] = {
-  /*  0 */         129,     INVALID,     INVALID,         127,
+  /*  0 */         129,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__50[] = {
@@ -422,22 +422,22 @@ static const uint16_t ud_itab__53[] = {
 
 static const uint16_t ud_itab__54[] = {
   /*  0 */   GROUP(67),   GROUP(68),   GROUP(63),   GROUP(64),
-  /*  4 */   GROUP(65),   GROUP(66),   GROUP(86),   GROUP(90),
+  /*  4 */   GROUP(65),   GROUP(66),   GROUP(85),  GROUP(108),
   /*  8 */   GROUP(69),   GROUP(70),   GROUP(71),   GROUP(72),
   /*  c */     INVALID,     INVALID,     INVALID,     INVALID,
   /* 10 */   GROUP(73),     INVALID,     INVALID,     INVALID,
-  /* 14 */   GROUP(75),   GROUP(76),     INVALID,   GROUP(77),
+  /* 14 */   GROUP(74),   GROUP(75),     INVALID,   GROUP(76),
   /* 18 */     INVALID,     INVALID,     INVALID,     INVALID,
-  /* 1c */   GROUP(78),   GROUP(79),   GROUP(80),     INVALID,
-  /* 20 */   GROUP(81),   GROUP(82),   GROUP(83),   GROUP(84),
-  /* 24 */   GROUP(85),  GROUP(108),     INVALID,     INVALID,
-  /* 28 */   GROUP(87),   GROUP(88),   GROUP(89),   GROUP(74),
+  /* 1c */   GROUP(77),   GROUP(78),   GROUP(79),     INVALID,
+  /* 20 */   GROUP(80),   GROUP(81),   GROUP(82),   GROUP(83),
+  /* 24 */   GROUP(84),  GROUP(107),     INVALID,     INVALID,
+  /* 28 */   GROUP(86),   GROUP(87),   GROUP(88),   GROUP(89),
   /* 2c */     INVALID,     INVALID,     INVALID,     INVALID,
-  /* 30 */   GROUP(91),   GROUP(92),   GROUP(93),   GROUP(94),
-  /* 34 */   GROUP(95),   GROUP(96),     INVALID,   GROUP(97),
-  /* 38 */   GROUP(98),   GROUP(99),  GROUP(100),  GROUP(101),
-  /* 3c */  GROUP(102),  GROUP(103),  GROUP(104),  GROUP(105),
-  /* 40 */  GROUP(106),  GROUP(107),     INVALID,     INVALID,
+  /* 30 */   GROUP(90),   GROUP(91),   GROUP(92),   GROUP(93),
+  /* 34 */   GROUP(94),   GROUP(95),     INVALID,   GROUP(96),
+  /* 38 */   GROUP(97),   GROUP(98),   GROUP(99),  GROUP(100),
+  /* 3c */  GROUP(101),  GROUP(102),  GROUP(103),  GROUP(104),
+  /* 40 */  GROUP(105),  GROUP(106),     INVALID,     INVALID,
   /* 44 */     INVALID,     INVALID,     INVALID,     INVALID,
   /* 48 */     INVALID,     INVALID,     INVALID,     INVALID,
   /* 4c */     INVALID,     INVALID,     INVALID,     INVALID,
@@ -488,7 +488,7 @@ static const uint16_t ud_itab__54[] = {
 };
 
 static const uint16_t ud_itab__55[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,   GROUP(56),
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__56[] = {
@@ -504,7 +504,7 @@ static const uint16_t ud_itab__58[] = {
 };
 
 static const uint16_t ud_itab__59[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,   GROUP(60),
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__60[] = {
@@ -520,227 +520,227 @@ static const uint16_t ud_itab__62[] = {
 };
 
 static const uint16_t ud_itab__63[] = {
-  /*  0 */        1588,     INVALID,     INVALID,        1589,
+  /*  0 */        1588,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__64[] = {
-  /*  0 */        1591,     INVALID,     INVALID,        1592,
+  /*  0 */        1591,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__65[] = {
-  /*  0 */        1594,     INVALID,     INVALID,        1595,
+  /*  0 */        1594,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__66[] = {
-  /*  0 */        1597,     INVALID,     INVALID,        1598,
+  /*  0 */        1597,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__67[] = {
-  /*  0 */        1582,     INVALID,     INVALID,        1583,
+  /*  0 */        1582,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__68[] = {
-  /*  0 */        1585,     INVALID,     INVALID,        1586,
+  /*  0 */        1585,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__69[] = {
-  /*  0 */        1606,     INVALID,     INVALID,        1607,
+  /*  0 */        1606,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__70[] = {
-  /*  0 */        1612,     INVALID,     INVALID,        1613,
+  /*  0 */        1612,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__71[] = {
-  /*  0 */        1609,     INVALID,     INVALID,        1610,
+  /*  0 */        1609,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__72[] = {
-  /*  0 */        1615,     INVALID,     INVALID,        1616,
+  /*  0 */        1615,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__73[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1621,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__74[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1683,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__75[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1657,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__76[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1656,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__77[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1711,
+  /*  0 */        1573,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__78[] = {
-  /*  0 */        1573,     INVALID,     INVALID,        1574,
+  /*  0 */        1576,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__79[] = {
-  /*  0 */        1576,     INVALID,     INVALID,        1577,
+  /*  0 */        1579,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__80[] = {
-  /*  0 */        1579,     INVALID,     INVALID,        1580,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__81[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1685,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__82[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1687,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__83[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1689,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__84[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1691,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__85[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1693,
+  /*  0 */        1600,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__86[] = {
-  /*  0 */        1600,     INVALID,     INVALID,        1601,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__87[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1622,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__88[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1708,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__89[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1681,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__90[] = {
-  /*  0 */        1603,     INVALID,     INVALID,        1604,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__91[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1696,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__92[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1698,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__93[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1700,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__94[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1702,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__95[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1704,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__96[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1706,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__97[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1717,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__98[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1624,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__99[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1626,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__100[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1628,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__101[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1630,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__102[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1632,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__103[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1634,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__104[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1638,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__105[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1636,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__106[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1640,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__107[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1642,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__108[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1695,
+  /*  0 */        1603,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__109[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,          45,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__110[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,          41,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__111[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,          43,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__112[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,          37,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__113[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,          39,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__114[] = {
-  /*  0 */        1723,        1725,     INVALID,     INVALID,
+  /*  0 */        1723,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__115[] = {
-  /*  0 */        1724,        1726,     INVALID,     INVALID,
+  /*  0 */        1724,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__116[] = {
   /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
   /*  4 */     INVALID,     INVALID,     INVALID,     INVALID,
-  /*  8 */  GROUP(117),  GROUP(118),  GROUP(119),  GROUP(120),
-  /*  c */  GROUP(121),  GROUP(122),  GROUP(123),  GROUP(124),
+  /*  8 */  GROUP(123),  GROUP(124),  GROUP(125),  GROUP(126),
+  /*  c */  GROUP(127),  GROUP(128),  GROUP(129),  GROUP(130),
   /* 10 */     INVALID,     INVALID,     INVALID,     INVALID,
-  /* 14 */  GROUP(125),  GROUP(126),  GROUP(127),  GROUP(129),
+  /* 14 */  GROUP(131),  GROUP(132),  GROUP(133),  GROUP(135),
   /* 18 */     INVALID,     INVALID,     INVALID,     INVALID,
   /* 1c */     INVALID,     INVALID,     INVALID,     INVALID,
-  /* 20 */  GROUP(130),  GROUP(131),  GROUP(132),     INVALID,
+  /* 20 */  GROUP(137),  GROUP(122),  GROUP(139),     INVALID,
   /* 24 */     INVALID,     INVALID,     INVALID,     INVALID,
   /* 28 */     INVALID,     INVALID,     INVALID,     INVALID,
   /* 2c */     INVALID,     INVALID,     INVALID,     INVALID,
@@ -748,15 +748,15 @@ static const uint16_t ud_itab__116[] = {
   /* 34 */     INVALID,     INVALID,     INVALID,     INVALID,
   /* 38 */     INVALID,     INVALID,     INVALID,     INVALID,
   /* 3c */     INVALID,     INVALID,     INVALID,     INVALID,
-  /* 40 */  GROUP(134),  GROUP(135),  GROUP(136),     INVALID,
-  /* 44 */  GROUP(137),     INVALID,     INVALID,     INVALID,
+  /* 40 */  GROUP(117),  GROUP(118),  GROUP(119),     INVALID,
+  /* 44 */  GROUP(120),     INVALID,     INVALID,     INVALID,
   /* 48 */     INVALID,     INVALID,     INVALID,     INVALID,
   /* 4c */     INVALID,     INVALID,     INVALID,     INVALID,
   /* 50 */     INVALID,     INVALID,     INVALID,     INVALID,
   /* 54 */     INVALID,     INVALID,     INVALID,     INVALID,
   /* 58 */     INVALID,     INVALID,     INVALID,     INVALID,
   /* 5c */     INVALID,     INVALID,     INVALID,     INVALID,
-  /* 60 */  GROUP(139),  GROUP(140),  GROUP(141),  GROUP(142),
+  /* 60 */  GROUP(142),  GROUP(138),  GROUP(121),  GROUP(141),
   /* 64 */     INVALID,     INVALID,     INVALID,     INVALID,
   /* 68 */     INVALID,     INVALID,     INVALID,     INVALID,
   /* 6c */     INVALID,     INVALID,     INVALID,     INVALID,
@@ -787,7 +787,7 @@ static const uint16_t ud_itab__116[] = {
   /* d0 */     INVALID,     INVALID,     INVALID,     INVALID,
   /* d4 */     INVALID,     INVALID,     INVALID,     INVALID,
   /* d8 */     INVALID,     INVALID,     INVALID,     INVALID,
-  /* dc */     INVALID,     INVALID,     INVALID,  GROUP(138),
+  /* dc */     INVALID,     INVALID,     INVALID,  GROUP(136),
   /* e0 */     INVALID,     INVALID,     INVALID,     INVALID,
   /* e4 */     INVALID,     INVALID,     INVALID,     INVALID,
   /* e8 */     INVALID,     INVALID,     INVALID,     INVALID,
@@ -799,115 +799,115 @@ static const uint16_t ud_itab__116[] = {
 };
 
 static const uint16_t ud_itab__117[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1644,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__118[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1646,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__119[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1648,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__120[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1650,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__121[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1654,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__122[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1652,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__123[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1677,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__124[] = {
-  /*  0 */        1618,     INVALID,     INVALID,        1619,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__125[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1045,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__126[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1056,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__127[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,  GROUP(128),
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__128[] = {
-  /*  0 */        1047,        1049,        1051,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__129[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,         201,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__130[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1058,
+  /*  0 */        1618,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__131[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1557,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__132[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,  GROUP(133),
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__133[] = {
-  /*  0 */        1062,        1063,        1064,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__134[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,         197,
+  /*  0 */     INVALID,        1049,        1051,
 };
 
 static const uint16_t ud_itab__135[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,         195,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__136[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1679,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__137[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1512,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__138[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,          47,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__139[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1715,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__140[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1713,
+  /*  0 */     INVALID,        1063,        1064,
 };
 
 static const uint16_t ud_itab__141[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1721,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__142[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1719,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__143[] = {
-  /*  0 */         900,     INVALID,     INVALID,         898,
+  /*  0 */         900,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__144[] = {
-  /*  0 */        1387,        1391,        1393,        1389,
+  /*  0 */        1387,     INVALID,        1393,     INVALID,
 };
 
 static const uint16_t ud_itab__145[] = {
@@ -919,127 +919,127 @@ static const uint16_t ud_itab__146[] = {
 };
 
 static const uint16_t ud_itab__147[] = {
-  /*  0 */          61,     INVALID,     INVALID,          59,
+  /*  0 */          61,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__148[] = {
-  /*  0 */          65,     INVALID,     INVALID,          63,
+  /*  0 */          65,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__149[] = {
-  /*  0 */         976,     INVALID,     INVALID,         974,
+  /*  0 */         976,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__150[] = {
-  /*  0 */        1499,     INVALID,     INVALID,        1497,
+  /*  0 */        1499,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__151[] = {
-  /*  0 */          27,          29,          31,          25,
+  /*  0 */          27,     INVALID,          31,     INVALID,
 };
 
 static const uint16_t ud_itab__152[] = {
-  /*  0 */         946,         948,         950,         944,
+  /*  0 */         946,     INVALID,         950,     INVALID,
 };
 
 static const uint16_t ud_itab__153[] = {
-  /*  0 */         145,         150,         156,         139,
+  /*  0 */         145,     INVALID,         156,     INVALID,
 };
 
 static const uint16_t ud_itab__154[] = {
-  /*  0 */         134,     INVALID,         163,         143,
+  /*  0 */         134,     INVALID,         163,     INVALID,
 };
 
 static const uint16_t ud_itab__155[] = {
-  /*  0 */        1419,        1421,        1423,        1417,
+  /*  0 */        1419,     INVALID,        1423,     INVALID,
 };
 
 static const uint16_t ud_itab__156[] = {
-  /*  0 */         818,         820,         822,         816,
+  /*  0 */         818,     INVALID,         822,     INVALID,
 };
 
 static const uint16_t ud_itab__157[] = {
-  /*  0 */         189,         191,         193,         187,
+  /*  0 */         189,     INVALID,         193,     INVALID,
 };
 
 static const uint16_t ud_itab__158[] = {
-  /*  0 */         802,         804,         806,         800,
+  /*  0 */         802,     INVALID,         806,     INVALID,
 };
 
 static const uint16_t ud_itab__159[] = {
-  /*  0 */        1209,     INVALID,     INVALID,        1207,
+  /*  0 */        1209,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__160[] = {
-  /*  0 */        1212,     INVALID,     INVALID,        1210,
+  /*  0 */        1212,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__161[] = {
-  /*  0 */        1215,     INVALID,     INVALID,        1213,
+  /*  0 */        1215,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__162[] = {
-  /*  0 */         987,     INVALID,     INVALID,         985,
+  /*  0 */         987,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__163[] = {
-  /*  0 */        1038,     INVALID,     INVALID,        1036,
+  /*  0 */        1038,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__164[] = {
-  /*  0 */        1041,     INVALID,     INVALID,        1039,
+  /*  0 */        1041,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__165[] = {
-  /*  0 */        1044,     INVALID,     INVALID,        1042,
+  /*  0 */        1044,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__166[] = {
-  /*  0 */         993,     INVALID,     INVALID,         991,
+  /*  0 */         993,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__167[] = {
-  /*  0 */        1200,     INVALID,     INVALID,        1198,
+  /*  0 */        1200,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__168[] = {
-  /*  0 */        1203,     INVALID,     INVALID,        1201,
+  /*  0 */        1203,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__169[] = {
-  /*  0 */        1206,     INVALID,     INVALID,        1204,
+  /*  0 */        1206,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__170[] = {
-  /*  0 */         990,     INVALID,     INVALID,         988,
+  /*  0 */         990,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__171[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1547,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__172[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1545,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__173[] = {
-  /*  0 */  GROUP(174),     INVALID,     INVALID,  GROUP(175),
+  /*  0 */  GROUP(174),     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__174[] = {
-  /*  0 */         866,         867,         910,
+  /*  0 */     INVALID,         867,         910,
 };
 
 static const uint16_t ud_itab__175[] = {
-  /*  0 */         868,         870,         911,
+  /*  0 */     INVALID,         870,         911,
 };
 
 static const uint16_t ud_itab__176[] = {
-  /*  0 */         920,     INVALID,        1522,        1517,
+  /*  0 */         920,     INVALID,        1522,     INVALID,
 };
 
 static const uint16_t ud_itab__177[] = {
-  /*  0 */        1134,        1537,        1535,        1539,
+  /*  0 */        1134,     INVALID,        1535,     INVALID,
 };
 
 static const uint16_t ud_itab__178[] = {
@@ -1048,15 +1048,15 @@ static const uint16_t ud_itab__178[] = {
 };
 
 static const uint16_t ud_itab__179[] = {
-  /*  0 */        1159,     INVALID,     INVALID,        1163,
+  /*  0 */        1159,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__180[] = {
-  /*  0 */        1152,     INVALID,     INVALID,        1150,
+  /*  0 */        1152,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__181[] = {
-  /*  0 */        1138,     INVALID,     INVALID,        1137,
+  /*  0 */        1138,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__182[] = {
@@ -1065,15 +1065,15 @@ static const uint16_t ud_itab__182[] = {
 };
 
 static const uint16_t ud_itab__183[] = {
-  /*  0 */        1165,     INVALID,     INVALID,        1169,
+  /*  0 */        1165,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__184[] = {
-  /*  0 */        1153,     INVALID,     INVALID,        1157,
+  /*  0 */        1153,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__185[] = {
-  /*  0 */        1142,     INVALID,     INVALID,        1141,
+  /*  0 */        1142,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__186[] = {
@@ -1082,31 +1082,31 @@ static const uint16_t ud_itab__186[] = {
 };
 
 static const uint16_t ud_itab__187[] = {
-  /*  0 */        1171,     INVALID,     INVALID,        1175,
+  /*  0 */        1171,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__188[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1543,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__189[] = {
-  /*  0 */        1146,     INVALID,     INVALID,        1145,
+  /*  0 */        1146,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__190[] = {
-  /*  0 */     INVALID,     INVALID,     INVALID,        1541,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__191[] = {
-  /*  0 */        1027,     INVALID,     INVALID,        1028,
+  /*  0 */        1027,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__192[] = {
-  /*  0 */        1030,     INVALID,     INVALID,        1031,
+  /*  0 */        1030,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__193[] = {
-  /*  0 */        1033,     INVALID,     INVALID,        1034,
+  /*  0 */        1033,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__194[] = {
@@ -1118,27 +1118,27 @@ static const uint16_t ud_itab__195[] = {
 };
 
 static const uint16_t ud_itab__196[] = {
-  /*  0 */     INVALID,        1551,     INVALID,        1549,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__197[] = {
-  /*  0 */     INVALID,        1555,     INVALID,        1553,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__198[] = {
-  /*  0 */  GROUP(199),     INVALID,         916,  GROUP(200),
+  /*  0 */  GROUP(199),     INVALID,         916,     INVALID,
 };
 
 static const uint16_t ud_itab__199[] = {
-  /*  0 */         872,         873,         913,
+  /*  0 */     INVALID,         873,         913,
 };
 
 static const uint16_t ud_itab__200[] = {
-  /*  0 */         874,         876,         914,
+  /*  0 */     INVALID,         876,         914,
 };
 
 static const uint16_t ud_itab__201[] = {
-  /*  0 */         921,     INVALID,        1524,        1515,
+  /*  0 */         921,     INVALID,        1524,     INVALID,
 };
 
 static const uint16_t ud_itab__202[] = {
@@ -1243,19 +1243,19 @@ static const uint16_t ud_itab__222[] = {
 };
 
 static const uint16_t ud_itab__223[] = {
-  /*  0 */         112,         117,         120,         110,
+  /*  0 */         112,     INVALID,         120,     INVALID,
 };
 
 static const uint16_t ud_itab__224[] = {
-  /*  0 */        1059,     INVALID,     INVALID,        1060,
+  /*  0 */        1059,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__225[] = {
-  /*  0 */        1055,     INVALID,     INVALID,        1053,
+  /*  0 */        1055,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__226[] = {
-  /*  0 */        1381,     INVALID,     INVALID,        1379,
+  /*  0 */        1381,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__227[] = {
@@ -1268,11 +1268,11 @@ static const uint16_t ud_itab__228[] = {
 };
 
 static const uint16_t ud_itab__229[] = {
-  /*  0 */         124,         125,         126,
+  /*  0 */     INVALID,         125,         126,
 };
 
 static const uint16_t ud_itab__230[] = {
-  /*  0 */  GROUP(231),     INVALID,  GROUP(232),  GROUP(233),
+  /*  0 */  GROUP(231),     INVALID,  GROUP(232),     INVALID,
 };
 
 static const uint16_t ud_itab__231[] = {
@@ -1297,159 +1297,159 @@ static const uint16_t ud_itab__235[] = {
 };
 
 static const uint16_t ud_itab__236[] = {
-  /*  0 */     INVALID,          35,     INVALID,          33,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__237[] = {
-  /*  0 */        1160,     INVALID,     INVALID,        1161,
+  /*  0 */        1160,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__238[] = {
-  /*  0 */        1166,     INVALID,     INVALID,        1167,
+  /*  0 */        1166,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__239[] = {
-  /*  0 */        1172,     INVALID,     INVALID,        1173,
+  /*  0 */        1172,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__240[] = {
-  /*  0 */        1527,     INVALID,     INVALID,        1528,
+  /*  0 */        1527,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__241[] = {
-  /*  0 */        1093,     INVALID,     INVALID,        1094,
+  /*  0 */        1093,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__242[] = {
-  /*  0 */     INVALID,        1521,        1526,         918,
+  /*  0 */     INVALID,     INVALID,        1526,     INVALID,
 };
 
 static const uint16_t ud_itab__243[] = {
-  /*  0 */        1086,     INVALID,     INVALID,        1084,
+  /*  0 */        1086,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__244[] = {
-  /*  0 */        1192,     INVALID,     INVALID,        1193,
+  /*  0 */        1192,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__245[] = {
-  /*  0 */        1195,     INVALID,     INVALID,        1196,
+  /*  0 */        1195,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__246[] = {
-  /*  0 */        1083,     INVALID,     INVALID,        1081,
+  /*  0 */        1083,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__247[] = {
-  /*  0 */        1017,     INVALID,     INVALID,        1015,
+  /*  0 */        1017,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__248[] = {
-  /*  0 */        1009,     INVALID,     INVALID,        1010,
+  /*  0 */        1009,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__249[] = {
-  /*  0 */        1012,     INVALID,     INVALID,        1013,
+  /*  0 */        1012,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__250[] = {
-  /*  0 */        1075,     INVALID,     INVALID,        1076,
+  /*  0 */        1075,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__251[] = {
-  /*  0 */        1020,     INVALID,     INVALID,        1018,
+  /*  0 */        1020,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__252[] = {
-  /*  0 */        1023,     INVALID,     INVALID,        1021,
+  /*  0 */        1023,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__253[] = {
-  /*  0 */        1147,     INVALID,     INVALID,        1148,
+  /*  0 */        1147,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__254[] = {
-  /*  0 */        1156,     INVALID,     INVALID,        1154,
+  /*  0 */        1156,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__255[] = {
-  /*  0 */        1026,     INVALID,     INVALID,        1024,
+  /*  0 */        1026,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__256[] = {
-  /*  0 */        1087,     INVALID,     INVALID,        1088,
+  /*  0 */        1087,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__257[] = {
-  /*  0 */        1092,     INVALID,     INVALID,        1090,
+  /*  0 */        1092,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__258[] = {
-  /*  0 */     INVALID,         136,         132,         160,
+  /*  0 */     INVALID,     INVALID,         132,     INVALID,
 };
 
 static const uint16_t ud_itab__259[] = {
-  /*  0 */         909,     INVALID,     INVALID,         902,
+  /*  0 */         909,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__260[] = {
-  /*  0 */        1186,     INVALID,     INVALID,        1187,
+  /*  0 */        1186,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__261[] = {
-  /*  0 */        1189,     INVALID,     INVALID,        1190,
+  /*  0 */        1189,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__262[] = {
-  /*  0 */        1080,     INVALID,     INVALID,        1078,
+  /*  0 */        1080,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__263[] = {
-  /*  0 */        1118,     INVALID,     INVALID,        1116,
+  /*  0 */        1118,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__264[] = {
-  /*  0 */        1003,     INVALID,     INVALID,        1004,
+  /*  0 */        1003,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__265[] = {
-  /*  0 */        1006,     INVALID,     INVALID,        1007,
+  /*  0 */        1006,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__266[] = {
-  /*  0 */        1074,     INVALID,     INVALID,        1072,
+  /*  0 */        1074,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__267[] = {
-  /*  0 */        1266,     INVALID,     INVALID,        1264,
+  /*  0 */        1266,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__268[] = {
-  /*  0 */     INVALID,        1559,     INVALID,     INVALID,
+  /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__269[] = {
-  /*  0 */        1136,     INVALID,     INVALID,        1135,
+  /*  0 */        1136,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__270[] = {
-  /*  0 */        1140,     INVALID,     INVALID,        1139,
+  /*  0 */        1140,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__271[] = {
-  /*  0 */        1144,     INVALID,     INVALID,        1143,
+  /*  0 */        1144,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__272[] = {
-  /*  0 */        1533,     INVALID,     INVALID,        1534,
+  /*  0 */        1533,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__273[] = {
-  /*  0 */        1069,     INVALID,     INVALID,        1070,
+  /*  0 */        1069,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__274[] = {
-  /*  0 */        1133,     INVALID,     INVALID,        1131,
+  /*  0 */        1133,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__275[] = {
@@ -1457,35 +1457,35 @@ static const uint16_t ud_itab__275[] = {
 };
 
 static const uint16_t ud_itab__276[] = {
-  /*  0 */         799,     INVALID,     INVALID,        1519,
+  /*  0 */         799,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__277[] = {
-  /*  0 */        1179,     INVALID,     INVALID,        1177,
+  /*  0 */        1179,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__278[] = {
-  /*  0 */        1182,     INVALID,     INVALID,        1180,
+  /*  0 */        1182,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__279[] = {
-  /*  0 */        1183,     INVALID,     INVALID,        1184,
+  /*  0 */        1183,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__280[] = {
-  /*  0 */        1532,     INVALID,     INVALID,        1530,
+  /*  0 */        1532,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__281[] = {
-  /*  0 */         996,     INVALID,     INVALID,         994,
+  /*  0 */         996,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__282[] = {
-  /*  0 */         997,     INVALID,     INVALID,         998,
+  /*  0 */         997,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__283[] = {
-  /*  0 */        1000,     INVALID,     INVALID,        1001,
+  /*  0 */        1000,     INVALID,     INVALID,     INVALID,
 };
 
 static const uint16_t ud_itab__284[] = {
@@ -1521,7 +1521,7 @@ static const uint16_t ud_itab__291[] = {
 };
 
 static const uint16_t ud_itab__292[] = {
-  /*  0 */  GROUP(293),  GROUP(294),     INVALID,
+  /*  0 */     INVALID,  GROUP(294),     INVALID,
 };
 
 static const uint16_t ud_itab__293[] = {
@@ -1533,7 +1533,7 @@ static const uint16_t ud_itab__294[] = {
 };
 
 static const uint16_t ud_itab__295[] = {
-  /*  0 */  GROUP(296),  GROUP(297),     INVALID,
+  /*  0 */     INVALID,  GROUP(297),     INVALID,
 };
 
 static const uint16_t ud_itab__296[] = {
@@ -1553,11 +1553,11 @@ static const uint16_t ud_itab__299[] = {
 };
 
 static const uint16_t ud_itab__300[] = {
-  /*  0 */         710,         711,     INVALID,
+  /*  0 */     INVALID,         711,     INVALID,
 };
 
 static const uint16_t ud_itab__301[] = {
-  /*  0 */         983,         984,     INVALID,
+  /*  0 */     INVALID,         984,     INVALID,
 };
 
 static const uint16_t ud_itab__302[] = {
@@ -1618,11 +1618,11 @@ static const uint16_t ud_itab__314[] = {
 };
 
 static const uint16_t ud_itab__315[] = {
-  /*  0 */          74,          75,          76,
+  /*  0 */     INVALID,          75,          76,
 };
 
 static const uint16_t ud_itab__316[] = {
-  /*  0 */         170,         171,         172,
+  /*  0 */     INVALID,         171,         172,
 };
 
 static const uint16_t ud_itab__317[] = {
@@ -1630,7 +1630,7 @@ static const uint16_t ud_itab__317[] = {
 };
 
 static const uint16_t ud_itab__318[] = {
-  /*  0 */  GROUP(319),  GROUP(320),  GROUP(321),
+  /*  0 */     INVALID,  GROUP(320),  GROUP(321),
 };
 
 static const uint16_t ud_itab__319[] = {
@@ -1646,7 +1646,7 @@ static const uint16_t ud_itab__321[] = {
 };
 
 static const uint16_t ud_itab__322[] = {
-  /*  0 */  GROUP(323),  GROUP(324),  GROUP(325),
+  /*  0 */     INVALID,  GROUP(324),  GROUP(325),
 };
 
 static const uint16_t ud_itab__323[] = {
@@ -1662,23 +1662,23 @@ static const uint16_t ud_itab__325[] = {
 };
 
 static const uint16_t ud_itab__326[] = {
-  /*  0 */         923,         924,         927,
+  /*  0 */     INVALID,         924,         927,
 };
 
 static const uint16_t ud_itab__327[] = {
-  /*  0 */         115,         116,         119,
+  /*  0 */     INVALID,         116,         119,
 };
 
 static const uint16_t ud_itab__328[] = {
-  /*  0 */        1403,        1404,        1405,
+  /*  0 */     INVALID,        1404,        1405,
 };
 
 static const uint16_t ud_itab__329[] = {
-  /*  0 */         791,         792,         793,
+  /*  0 */     INVALID,         792,         793,
 };
 
 static const uint16_t ud_itab__330[] = {
-  /*  0 */        1347,        1348,        1349,
+  /*  0 */     INVALID,        1348,        1349,
 };
 
 static const uint16_t ud_itab__331[] = {
@@ -1866,7 +1866,7 @@ static const uint16_t ud_itab__343[] = {
 };
 
 static const uint16_t ud_itab__344[] = {
-  /*  0 */         869,         871,         912,
+  /*  0 */     INVALID,         871,         912,
 };
 
 static const uint16_t ud_itab__345[] = {
@@ -1897,7 +1897,7 @@ static const uint16_t ud_itab__350[] = {
 };
 
 static const uint16_t ud_itab__351[] = {
-  /*  0 */         875,         877,         915,
+  /*  0 */     INVALID,         877,         915,
 };
 
 static const uint16_t ud_itab__352[] = {
@@ -2033,12 +2033,12 @@ static const uint16_t ud_itab__368[] = {
 
 static const uint16_t ud_itab__369[] = {
   /*  0 */     INVALID,     INVALID,     INVALID,     INVALID,
-  /*  4 */  GROUP(370),  GROUP(371),  GROUP(372),     INVALID,
+  /*  4 */  GROUP(393),  GROUP(382),  GROUP(371),     INVALID,
   /*  8 */        1645,        1647,        1649,        1651,
   /*  c */        1655,        1653,        1678,        1620,
   /* 10 */     INVALID,     INVALID,     INVALID,     INVALID,
-  /* 14 */  GROUP(374),        1057,  GROUP(375),         202,
-  /* 18 */  GROUP(379),  GROUP(381),     INVALID,     INVALID,
+  /* 14 */  GROUP(373),        1057,  GROUP(374),         202,
+  /* 18 */  GROUP(378),  GROUP(380),     INVALID,     INVALID,
   /* 1c */     INVALID,     INVALID,     INVALID,     INVALID,
   /* 20 */  GROUP(383),        1558,  GROUP(385),     INVALID,
   /* 24 */     INVALID,     INVALID,     INVALID,     INVALID,
@@ -2050,8 +2050,8 @@ static const uint16_t ud_itab__369[] = {
   /* 3c */     INVALID,     INVALID,     INVALID,     INVALID,
   /* 40 */         198,         196,        1680,     INVALID,
   /* 44 */        1513,     INVALID,     INVALID,     INVALID,
-  /* 48 */     INVALID,     INVALID,  GROUP(391),  GROUP(392),
-  /* 4c */  GROUP(393),     INVALID,     INVALID,     INVALID,
+  /* 48 */     INVALID,     INVALID,  GROUP(392),  GROUP(370),
+  /* 4c */  GROUP(391),     INVALID,     INVALID,     INVALID,
   /* 50 */     INVALID,     INVALID,     INVALID,     INVALID,
   /* 54 */     INVALID,     INVALID,     INVALID,     INVALID,
   /* 58 */     INVALID,     INVALID,     INVALID,     INVALID,
@@ -2099,55 +2099,55 @@ static const uint16_t ud_itab__369[] = {
 };
 
 static const uint16_t ud_itab__370[] = {
-  /*  0 */        1738,     INVALID,
+  /*  0 */        1744,     INVALID,
 };
 
 static const uint16_t ud_itab__371[] = {
-  /*  0 */        1736,     INVALID,
+  /*  0 */  GROUP(372),     INVALID,
 };
 
 static const uint16_t ud_itab__372[] = {
-  /*  0 */  GROUP(373),     INVALID,
-};
-
-static const uint16_t ud_itab__373[] = {
   /*  0 */     INVALID,        1739,
 };
 
-static const uint16_t ud_itab__374[] = {
+static const uint16_t ud_itab__373[] = {
   /*  0 */        1046,     INVALID,
 };
 
-static const uint16_t ud_itab__375[] = {
-  /*  0 */  GROUP(376),  GROUP(377),  GROUP(378),
+static const uint16_t ud_itab__374[] = {
+  /*  0 */     INVALID,  GROUP(376),  GROUP(377),
 };
 
-static const uint16_t ud_itab__376[] = {
+static const uint16_t ud_itab__375[] = {
   /*  0 */        1048,     INVALID,
 };
 
-static const uint16_t ud_itab__377[] = {
+static const uint16_t ud_itab__376[] = {
   /*  0 */        1050,     INVALID,
 };
 
-static const uint16_t ud_itab__378[] = {
+static const uint16_t ud_itab__377[] = {
   /*  0 */     INVALID,        1052,
 };
 
-static const uint16_t ud_itab__379[] = {
-  /*  0 */  GROUP(380),     INVALID,
+static const uint16_t ud_itab__378[] = {
+  /*  0 */  GROUP(379),     INVALID,
 };
 
-static const uint16_t ud_itab__380[] = {
+static const uint16_t ud_itab__379[] = {
   /*  0 */     INVALID,        1730,
 };
 
+static const uint16_t ud_itab__380[] = {
+  /*  0 */  GROUP(381),     INVALID,
+};
+
 static const uint16_t ud_itab__381[] = {
-  /*  0 */  GROUP(382),     INVALID,
+  /*  0 */     INVALID,        1729,
 };
 
 static const uint16_t ud_itab__382[] = {
-  /*  0 */     INVALID,        1729,
+  /*  0 */        1736,     INVALID,
 };
 
 static const uint16_t ud_itab__383[] = {
@@ -2183,15 +2183,15 @@ static const uint16_t ud_itab__390[] = {
 };
 
 static const uint16_t ud_itab__391[] = {
-  /*  0 */        1745,     INVALID,
+  /*  0 */        1754,     INVALID,
 };
 
 static const uint16_t ud_itab__392[] = {
-  /*  0 */        1744,     INVALID,
+  /*  0 */        1745,     INVALID,
 };
 
 static const uint16_t ud_itab__393[] = {
-  /*  0 */        1754,     INVALID,
+  /*  0 */        1738,     INVALID,
 };
 
 static const uint16_t ud_itab__394[] = {
@@ -2199,8 +2199,8 @@ static const uint16_t ud_itab__394[] = {
   /*  4 */     INVALID,     INVALID,     INVALID,     INVALID,
   /*  8 */     INVALID,     INVALID,     INVALID,     INVALID,
   /*  c */     INVALID,     INVALID,     INVALID,     INVALID,
-  /* 10 */  GROUP(395),  GROUP(396),  GROUP(397),     INVALID,
-  /* 14 */     INVALID,     INVALID,  GROUP(398),     INVALID,
+  /* 10 */  GROUP(395),  GROUP(398),  GROUP(397),     INVALID,
+  /* 14 */     INVALID,     INVALID,  GROUP(396),     INVALID,
   /* 18 */     INVALID,     INVALID,     INVALID,     INVALID,
   /* 1c */     INVALID,     INVALID,     INVALID,     INVALID,
   /* 20 */     INVALID,     INVALID,     INVALID,     INVALID,
@@ -2266,7 +2266,7 @@ static const uint16_t ud_itab__395[] = {
 };
 
 static const uint16_t ud_itab__396[] = {
-  /*  0 */        1753,        1752,
+  /*  0 */        1568,        1566,
 };
 
 static const uint16_t ud_itab__397[] = {
@@ -2274,7 +2274,7 @@ static const uint16_t ud_itab__397[] = {
 };
 
 static const uint16_t ud_itab__398[] = {
-  /*  0 */        1568,        1566,
+  /*  0 */        1753,        1752,
 };
 
 static const uint16_t ud_itab__399[] = {
@@ -2382,7 +2382,7 @@ static const uint16_t ud_itab__407[] = {
 };
 
 static const uint16_t ud_itab__408[] = {
-  /*  0 */         723,         724,         725,
+  /*  0 */     INVALID,         724,         725,
 };
 
 static const uint16_t ud_itab__409[] = {
@@ -2642,7 +2642,7 @@ static const uint16_t ud_itab__439[] = {
 };
 
 static const uint16_t ud_itab__440[] = {
-  /*  0 */         758,         759,         760,
+  /*  0 */     INVALID,         759,         760,
 };
 
 static const uint16_t ud_itab__441[] = {
@@ -2803,19 +2803,19 @@ struct ud_lookup_table_list_entry ud_lookup_table_list[] = {
     /* 125 */ { ud_itab__125, UD_TAB__OPC_SSE, "/sse" },
     /* 126 */ { ud_itab__126, UD_TAB__OPC_SSE, "/sse" },
     /* 127 */ { ud_itab__127, UD_TAB__OPC_SSE, "/sse" },
-    /* 128 */ { ud_itab__128, UD_TAB__OPC_OSIZE, "/o" },
+    /* 128 */ { ud_itab__128, UD_TAB__OPC_SSE, "/sse" },
     /* 129 */ { ud_itab__129, UD_TAB__OPC_SSE, "/sse" },
     /* 130 */ { ud_itab__130, UD_TAB__OPC_SSE, "/sse" },
     /* 131 */ { ud_itab__131, UD_TAB__OPC_SSE, "/sse" },
     /* 132 */ { ud_itab__132, UD_TAB__OPC_SSE, "/sse" },
-    /* 133 */ { ud_itab__133, UD_TAB__OPC_OSIZE, "/o" },
-    /* 134 */ { ud_itab__134, UD_TAB__OPC_SSE, "/sse" },
+    /* 133 */ { ud_itab__133, UD_TAB__OPC_SSE, "/sse" },
+    /* 134 */ { ud_itab__134, UD_TAB__OPC_OSIZE, "/o" },
     /* 135 */ { ud_itab__135, UD_TAB__OPC_SSE, "/sse" },
     /* 136 */ { ud_itab__136, UD_TAB__OPC_SSE, "/sse" },
     /* 137 */ { ud_itab__137, UD_TAB__OPC_SSE, "/sse" },
     /* 138 */ { ud_itab__138, UD_TAB__OPC_SSE, "/sse" },
     /* 139 */ { ud_itab__139, UD_TAB__OPC_SSE, "/sse" },
-    /* 140 */ { ud_itab__140, UD_TAB__OPC_SSE, "/sse" },
+    /* 140 */ { ud_itab__140, UD_TAB__OPC_OSIZE, "/o" },
     /* 141 */ { ud_itab__141, UD_TAB__OPC_SSE, "/sse" },
     /* 142 */ { ud_itab__142, UD_TAB__OPC_SSE, "/sse" },
     /* 143 */ { ud_itab__143, UD_TAB__OPC_SSE, "/sse" },
@@ -3047,17 +3047,17 @@ struct ud_lookup_table_list_entry ud_lookup_table_list[] = {
     /* 369 */ { ud_itab__369, UD_TAB__OPC_TABLE, "opctbl" },
     /* 370 */ { ud_itab__370, UD_TAB__OPC_VEX_W, "/vexw" },
     /* 371 */ { ud_itab__371, UD_TAB__OPC_VEX_W, "/vexw" },
-    /* 372 */ { ud_itab__372, UD_TAB__OPC_VEX_W, "/vexw" },
-    /* 373 */ { ud_itab__373, UD_TAB__OPC_VEX_L, "/vexl" },
-    /* 374 */ { ud_itab__374, UD_TAB__OPC_VEX_W, "/vexw" },
-    /* 375 */ { ud_itab__375, UD_TAB__OPC_OSIZE, "/o" },
+    /* 372 */ { ud_itab__372, UD_TAB__OPC_VEX_L, "/vexl" },
+    /* 373 */ { ud_itab__373, UD_TAB__OPC_VEX_W, "/vexw" },
+    /* 374 */ { ud_itab__374, UD_TAB__OPC_OSIZE, "/o" },
+    /* 375 */ { ud_itab__375, UD_TAB__OPC_VEX_W, "/vexw" },
     /* 376 */ { ud_itab__376, UD_TAB__OPC_VEX_W, "/vexw" },
     /* 377 */ { ud_itab__377, UD_TAB__OPC_VEX_W, "/vexw" },
     /* 378 */ { ud_itab__378, UD_TAB__OPC_VEX_W, "/vexw" },
-    /* 379 */ { ud_itab__379, UD_TAB__OPC_VEX_W, "/vexw" },
-    /* 380 */ { ud_itab__380, UD_TAB__OPC_VEX_L, "/vexl" },
-    /* 381 */ { ud_itab__381, UD_TAB__OPC_VEX_W, "/vexw" },
-    /* 382 */ { ud_itab__382, UD_TAB__OPC_VEX_L, "/vexl" },
+    /* 379 */ { ud_itab__379, UD_TAB__OPC_VEX_L, "/vexl" },
+    /* 380 */ { ud_itab__380, UD_TAB__OPC_VEX_W, "/vexw" },
+    /* 381 */ { ud_itab__381, UD_TAB__OPC_VEX_L, "/vexl" },
+    /* 382 */ { ud_itab__382, UD_TAB__OPC_VEX_W, "/vexw" },
     /* 383 */ { ud_itab__383, UD_TAB__OPC_VEX_W, "/vexw" },
     /* 384 */ { ud_itab__384, UD_TAB__OPC_VEX_L, "/vexl" },
     /* 385 */ { ud_itab__385, UD_TAB__OPC_MODE, "/m" },
